@@ -1,4 +1,5 @@
 # Problem Solving
 
 ### Topics Covered
-- [x] [Recursion](recursion/README.md)
+- [x] [Arrays](arrays)
+- [x] [Recursion](recursion)
