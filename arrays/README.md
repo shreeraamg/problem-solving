@@ -1,3 +1,4 @@
 ## Arrays
 
 1. [Check if an Array is Sorted](CheckIsArraySorted.java)
+2. [Remove Duplicates from Sorted Array](RemoveDuplicates.java)
