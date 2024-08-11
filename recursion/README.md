@@ -7,3 +7,4 @@
 5. [Count Number of Zeros in an Integer](CountZeros.java)
 6. [Number of Steps to Reduce a Number to Zero](Leetcode1342.java)
 7. [Check if an Array is Sorted](CheckIsArraySorted.java)
+8. [Find the smallest element in an Array](MinimumElement.java) `Recursion`
