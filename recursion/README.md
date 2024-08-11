@@ -6,3 +6,4 @@
 4. [Product of Digits in an Integer](ProductOfDigits.java)
 5. [Count Number of Zeros in an Integer](CountZeros.java)
 6. [Number of Steps to Reduce a Number to Zero](Leetcode1342.java)
+7. [Check if an Array is Sorted](CheckIsArraySorted.java)
