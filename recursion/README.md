@@ -9,3 +9,4 @@
 7. [Check if an Array is Sorted](CheckIsArraySorted.java)
 8. [Find the smallest element in an Array](MinimumElement.java)
 9. [Find all occurrences of an element in an Array](FindOccurrences.java)
+10. [Check whether a number is Good or Not](GoodNumber.java)
