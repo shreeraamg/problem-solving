@@ -1,6 +1,6 @@
 package recursion;
 
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 // https://leetcode.com/problems/count-good-numbers/description/
@@ -16,15 +16,18 @@ public class GoodNumber {
     }
 
     static boolean helper(int num, int i) {
-        if (num == 0) return true;
+        if (num == 0)
+            return true;
 
         List<Integer> primeNumbers = Arrays.asList(2, 3, 5, 7);
         int n = num % 10;
 
         if (i % 2 == 0) {
-            if (n % 2 != 0) return false;
+            if (n % 2 != 0)
+                return false;
         } else {
-            if (!primeNumbers.contains(n)) return false;
+            if (!primeNumbers.contains(n))
+                return false;
         }
 
         return helper(num / 10, i + 1);
