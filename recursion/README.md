@@ -12,3 +12,4 @@
 10. [Check whether a number is Good or Not](GoodNumber.java)
 11. Remove a character from String &emsp; [`Java`](SumOfDigits.java) &emsp; [`Python`](SkipCharacter.py)
 12. [Reverse an array](ReverseArray.java)
+13. [Palindrome String](Palindrome.java)
