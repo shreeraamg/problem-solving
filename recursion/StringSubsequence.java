@@ -1,13 +1,16 @@
+package recursion;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+// https://www.geeksforgeeks.org/program-print-substrings-given-string/
+public class StringSubsequence {
     public static void main(String[] args) {
-        printSubset("", "abc");
         List<List<String>> subsets = subset("abc");
         System.out.println(subsets);
     }
 
+    // Printing the subsets
     static void printSubset(String str, String unProcessed) {
         if (unProcessed.isEmpty()) {
             System.out.println(str);
@@ -20,6 +23,7 @@ public class Main {
         printSubset(str, unProcessed.substring(1));
     }
 
+    // Returning the subsets
     static List<List<String>> subset(String str) {
         return helper("", str);
     }

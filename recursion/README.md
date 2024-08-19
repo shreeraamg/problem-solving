@@ -13,3 +13,4 @@
 11. Remove a character from String &emsp; [`Java`](SumOfDigits.java) &emsp; [`Python`](SkipCharacter.py)
 12. [Reverse an array](ReverseArray.java)
 13. [Palindrome String](Palindrome.java)
+14. [Print substrings of a given String](StringSubsequence.java)
