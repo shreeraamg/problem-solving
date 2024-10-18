@@ -5,3 +5,4 @@
 3. [Find Second largest element in an array](SecondLargestInArray.java)
 4. [Find the smallest element in an Array](../recursion/MinimumElement.java)
 5. [Reverse an array](../recursion/ReverseArray.java)
+6. [Distribute Candies](DistributeCandies.java)
